@@ -3,7 +3,7 @@
 <h3 align="center">I am a Fullstack Developer and a curious person 🚀 🧑‍🚀 </h3>
 <h4 align="center">❤️ JavaScript and Python ❤️</h4>
 
-- 🔭 I’m currently working on solving CodeWars katas
+- 🔭 I’m currently working on solving CodeWars katas 
 - 🌱 I’m currently learning Three.JS library
 - 💬 Ask me about anything you want
 
@@ -14,6 +14,8 @@
 TG: https://t.me/nick_ilyushkin
 GH: https://github.com/sharkeeyy
 mail: nick.ilyushkin@gmail.com
+
+[![codewars](https://www.codewars.com/users/sharkeeyy/badges/small)](https://www.codewars.com/users/sharkeeyy)
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
