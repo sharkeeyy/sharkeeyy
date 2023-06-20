@@ -3,7 +3,7 @@
 <h3 align="center">I am a Web Developer and a curious person 🚀 🧑‍🚀 </h3>
 <h4 align="center">❤️ JavaScript and Python ❤️</h4>
 
-- 🔭 I’m currently working on solving CodeWars katas 
+- 🔭 I’m currently working on solving CodeWars katas and LeetCode problems 
 - 🌱 I’m currently learning Three.JS library
 - 💬 Ask me about anything you want
 
