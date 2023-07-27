@@ -16,6 +16,7 @@ GH: https://github.com/sharkeeyy
 mail: nick.ilyushkin@gmail.com
 
 [![codewars](https://www.codewars.com/users/sharkeeyy/badges/small)](https://www.codewars.com/users/sharkeeyy)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sharkeeyy)](https://github.com/sharkeeyy/leetcode-stats)
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
